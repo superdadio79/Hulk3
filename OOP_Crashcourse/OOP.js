@@ -33,7 +33,7 @@ console.log(mag1.getSummary());
 //     }
 
 //     getSummary() {
-//         return `${this.title} was written by ${this.author} in ${thjis.year}`;
+//         return `${this.title} was written by ${this.author} in ${this.year}`;
 //     }
 
 //     getAge () {
